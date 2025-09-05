@@ -8,14 +8,10 @@ This task focuses on analyzing **e-commerce sales data** and building an **inter
 
 The goal is to provide **data-driven business recommendations** for growth and efficiency.  
 
----
-
 ## 📂 Files Included  
 - `Dataset.xlsx` – Raw e-commerce sales data  
 - `Dashboard.pbix` – Power BI dashboard file  
 - `Report_Task01.md` – Analytical report & business insights  
-
----
 
 ## 🔑 Key Insights  
 - **Technology** emerged as the top-performing category, followed by Office Supplies.  
@@ -24,18 +20,12 @@ The goal is to provide **data-driven business recommendations** for growth and e
 - **Repeat customers** contributed significantly to total revenue.  
 - High contribution from **Phones, Chairs, and Binders** sub-categories.  
 
----
-
 ## 🛠️ Tools Used  
 - **Microsoft Power BI** – Dashboard creation & visualization  
 - **Microsoft Excel** – Data cleaning & preprocessing  
-
----
 
 ## 🎯 Outcome  
 The dashboard consolidates **sales, profit, customer, and regional performance** into a single view, enabling:  
 ✔️ Smarter marketing strategies  
 ✔️ Improved regional targeting  
 ✔️ Inventory optimization for high-demand products  
-
----
