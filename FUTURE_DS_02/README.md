@@ -110,7 +110,7 @@ To create an interactive dashboard that provides actionable insights into advert
 For questions about this project or collaboration opportunities:
 - LinkedIn: [https://www.linkedin.com/in/subhadeep-kumar-sahoo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrReFUEQaSeqdaQEmr8ww1g%3D%3D]
 - Email: [subhadeep.workplace@gmail.com]
-- GitHub: [Subhadeep577]
+- GitHub: [https://github.com/Subhadeep577]
 
 ---
 
