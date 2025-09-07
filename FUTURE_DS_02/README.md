@@ -3,7 +3,6 @@
 ## Project Overview
 A comprehensive Power BI dashboard analyzing social media campaign performance across multiple advertising channels. This project was completed as **Task 2** during my internship at **Future Interns**.
 
-![Dashboard Preview](dashboard-screenshot.png)
 
 ## 🎯 Objective
 To create an interactive dashboard that provides actionable insights into advertising spend effectiveness, ROI analysis, and channel performance comparison across a multi-million dollar marketing campaign.
