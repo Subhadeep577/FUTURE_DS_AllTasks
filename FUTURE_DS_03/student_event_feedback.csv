@@ -1,0 +1,501 @@
+ResponseID,Timestamp,Event,Department,EventType,Rating,Comments
+R0001,2025-07-05 18:36:52.129125,Data Visualization Session,Data Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0002,2025-09-07 16:32:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Great speakers and practical examples. Loved it! Too long.
+R0003,2025-09-04 15:40:52.129125,Cultural Night,Cultural Club,Cultural,5,
+R0004,2025-07-08 05:45:52.129125,Data Visualization Session,Data Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0005,2025-08-15 19:12:52.129125,Data Visualization Session,Data Science,Workshop,4,Fun and interactive. The cohort participation was great.
+R0006,2025-07-24 16:56:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,2,"Not what I expected, the content was confusing."
+R0007,2025-08-14 01:12:52.129125,AI Workshop,Computer Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0008,2025-07-07 01:55:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,
+R0009,2025-07-02 17:12:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,"It was okay, some parts were useful."
+R0010,2025-09-11 13:43:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,"Somewhat informative, but pacing felt off. Too long."
+R0011,2025-08-09 22:29:52.129125,Music Fest,Cultural Club,Cultural,5,Fun and interactive. The cohort participation was great.
+R0012,2025-08-30 11:53:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0013,2025-06-25 19:17:52.129125,Cultural Night,Cultural Club,Cultural,4,Very useful content; would attend similar events again.
+R0014,2025-07-16 03:42:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Well organized and helpful. Learned a lot.
+R0015,2025-07-04 09:59:52.129125,Cultural Night,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0016,2025-09-18 13:16:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Really enjoyed the session — very informative and engaging. Good examples.
+R0017,2025-08-24 08:24:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,
+R0018,2025-06-28 09:32:52.129125,Data Visualization Session,Data Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0019,2025-07-21 12:20:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,Neutral — neither very good nor very bad.
+R0020,2025-07-20 23:59:52.129125,AI Workshop,Computer Science,Workshop,4,
+R0021,2025-07-02 11:55:52.129125,Music Fest,Cultural Club,Cultural,5,Fun and interactive. The cohort participation was great.
+R0022,2025-08-11 05:57:52.129125,Data Visualization Session,Data Science,Workshop,5,Very useful content; would attend similar events again.
+R0023,2025-06-24 00:30:52.129125,Data Visualization Session,Data Science,Workshop,4,Fun and interactive. The cohort participation was great.
+R0024,2025-08-18 00:14:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Fun and interactive. The cohort participation was great. Venue issues.
+R0025,2025-07-28 16:01:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0026,2025-06-28 15:52:52.129125,AI Workshop,Computer Science,Workshop,2,Poorly organized and the speaker ran overtime.
+R0027,2025-08-17 17:45:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0028,2025-07-08 12:35:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,"It was okay, some parts were useful."
+R0029,2025-07-20 08:29:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0030,2025-07-30 04:09:52.129125,Music Fest,Cultural Club,Cultural,5,Well organized and helpful. Learned a lot.
+R0031,2025-07-29 07:12:52.129125,Cultural Night,Cultural Club,Cultural,4,
+R0032,2025-07-22 02:50:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Well organized and helpful. Learned a lot. Too long.
+R0033,2025-07-24 11:02:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0034,2025-07-14 09:26:52.129125,Cultural Night,Cultural Club,Cultural,4,Fun and interactive. The cohort participation was great.
+R0035,2025-08-15 14:15:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,2,Poorly organized and the speaker ran overtime. Food arrangement was bad.
+R0036,2025-07-16 19:28:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad. Too long.
+R0037,2025-09-18 10:36:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0038,2025-08-29 06:41:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0039,2025-08-17 18:01:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Very useful content; would attend similar events again.
+R0040,2025-09-04 21:51:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful. Too long."
+R0041,2025-08-21 17:08:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,
+R0042,2025-07-12 02:49:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,
+R0043,2025-09-14 00:56:52.129125,Music Fest,Cultural Club,Cultural,3,"Somewhat informative, but pacing felt off."
+R0044,2025-07-01 22:42:52.129125,Music Fest,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it!
+R0045,2025-08-08 09:38:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Great speakers and practical examples. Loved it!
+R0046,2025-09-10 11:35:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,2,"Timing and logistics were a problem, disappointing. Venue issues."
+R0047,2025-08-26 01:39:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Fun and interactive. The cohort participation was great.
+R0048,2025-08-30 22:07:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0049,2025-08-15 07:29:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Average experience. Could be better organized.
+R0050,2025-08-20 10:45:52.129125,Music Fest,Cultural Club,Cultural,4,Good examples.
+R0051,2025-08-24 19:54:52.129125,AI Workshop,Computer Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0052,2025-08-27 22:01:52.129125,Cultural Night,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it!
+R0053,2025-06-30 03:56:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Fun and interactive. The cohort participation was great.
+R0054,2025-07-13 16:37:52.129125,Data Visualization Session,Data Science,Workshop,5,Very useful content; would attend similar events again.
+R0055,2025-09-01 06:23:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"Somewhat informative, but pacing felt off."
+R0056,2025-08-05 01:26:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Fun and interactive. The cohort participation was great.
+R0057,2025-08-18 19:49:52.129125,AI Workshop,Computer Science,Workshop,5,Really enjoyed the session — very informative and engaging. Venue issues.
+R0058,2025-09-15 14:05:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,"It was okay, some parts were useful."
+R0059,2025-07-30 06:28:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,
+R0060,2025-09-06 12:06:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it!
+R0061,2025-07-06 23:42:52.129125,Music Fest,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0062,2025-08-23 09:01:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,2,"Timing and logistics were a problem, disappointing."
+R0063,2025-07-04 08:10:52.129125,Cultural Night,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0064,2025-08-27 09:39:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Fun and interactive. The cohort participation was great.
+R0065,2025-09-02 13:49:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Great speakers and practical examples. Loved it!
+R0066,2025-09-11 22:11:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Great speakers and practical examples. Loved it!
+R0067,2025-08-23 21:50:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0068,2025-07-22 03:40:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Very useful content; would attend similar events again.
+R0069,2025-08-02 15:17:52.129125,AI Workshop,Computer Science,Workshop,3,"It was okay, some parts were useful. Venue issues."
+R0070,2025-08-13 21:47:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0071,2025-08-30 00:47:52.129125,AI Workshop,Computer Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0072,2025-06-29 09:57:52.129125,Data Visualization Session,Data Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0073,2025-08-26 01:57:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0074,2025-07-20 19:11:52.129125,Cultural Night,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0075,2025-06-24 00:21:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized. Venue issues.
+R0076,2025-08-23 08:54:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it!
+R0077,2025-08-10 03:55:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Neutral — neither very good nor very bad.
+R0078,2025-07-16 22:15:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad.
+R0079,2025-07-23 18:30:52.129125,Music Fest,Cultural Club,Cultural,5,Fun and interactive. The cohort participation was great.
+R0080,2025-07-02 04:19:52.129125,Music Fest,Cultural Club,Cultural,5,Really enjoyed the session — very informative and engaging. Too long.
+R0081,2025-08-04 23:29:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Really enjoyed the session — very informative and engaging. Venue issues.
+R0082,2025-07-30 18:43:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0083,2025-07-25 10:45:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Fun and interactive. The cohort participation was great. Too long.
+R0084,2025-09-06 19:37:52.129125,AI Workshop,Computer Science,Workshop,3,"It was okay, some parts were useful."
+R0085,2025-06-24 02:51:52.129125,AI Workshop,Computer Science,Workshop,3,
+R0086,2025-08-12 12:37:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0087,2025-09-14 11:09:52.129125,AI Workshop,Computer Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0088,2025-09-11 05:09:52.129125,Data Visualization Session,Data Science,Workshop,3,Average experience. Could be better organized.
+R0089,2025-09-05 18:31:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,
+R0090,2025-07-17 02:24:52.129125,Music Fest,Cultural Club,Cultural,3,
+R0091,2025-08-26 21:21:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Fun and interactive. The cohort participation was great.
+R0092,2025-07-07 16:52:52.129125,Cultural Night,Cultural Club,Cultural,3,"Somewhat informative, but pacing felt off."
+R0093,2025-07-25 05:09:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0094,2025-09-13 12:02:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it!
+R0095,2025-07-01 00:20:52.129125,Data Visualization Session,Data Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0096,2025-09-04 02:44:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0097,2025-09-11 05:13:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Very useful content; would attend similar events again. Food arrangement was bad.
+R0098,2025-09-15 05:44:52.129125,AI Workshop,Computer Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0099,2025-07-18 02:56:52.129125,AI Workshop,Computer Science,Workshop,4,Very useful content; would attend similar events again.
+R0100,2025-08-28 10:43:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0101,2025-06-26 21:55:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Great speakers and practical examples. Loved it!
+R0102,2025-09-09 15:02:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Fun and interactive. The cohort participation was great.
+R0103,2025-08-16 08:57:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0104,2025-08-23 19:41:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Average experience. Could be better organized. Venue issues.
+R0105,2025-07-25 10:01:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0106,2025-09-14 23:39:52.129125,Data Visualization Session,Data Science,Workshop,4,Very useful content; would attend similar events again.
+R0107,2025-07-29 21:55:52.129125,Data Visualization Session,Data Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0108,2025-08-05 01:40:52.129125,AI Workshop,Computer Science,Workshop,4,Really enjoyed the session — very informative and engaging. Too long.
+R0109,2025-07-02 07:27:52.129125,Cultural Night,Cultural Club,Cultural,4,Food arrangement was bad.
+R0110,2025-08-13 05:40:52.129125,Music Fest,Cultural Club,Cultural,4,Very useful content; would attend similar events again.
+R0111,2025-07-11 20:34:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0112,2025-09-17 00:32:52.129125,AI Workshop,Computer Science,Workshop,4,Great speakers and practical examples. Loved it! Food arrangement was bad.
+R0113,2025-09-16 23:17:52.129125,AI Workshop,Computer Science,Workshop,4,
+R0114,2025-08-23 08:25:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0115,2025-06-25 19:45:52.129125,Music Fest,Cultural Club,Cultural,5,Well organized and helpful. Learned a lot.
+R0116,2025-09-09 20:34:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"Somewhat informative, but pacing felt off."
+R0117,2025-08-02 11:11:52.129125,Cultural Night,Cultural Club,Cultural,5,Great speakers and practical examples. Loved it!
+R0118,2025-06-28 17:30:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0119,2025-08-22 08:37:52.129125,AI Workshop,Computer Science,Workshop,4,Fun and interactive. The cohort participation was great.
+R0120,2025-09-03 18:16:52.129125,AI Workshop,Computer Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0121,2025-06-25 19:16:52.129125,AI Workshop,Computer Science,Workshop,3,"It was okay, some parts were useful."
+R0122,2025-09-02 16:23:52.129125,Music Fest,Cultural Club,Cultural,5,
+R0123,2025-09-05 04:23:52.129125,Cultural Night,Cultural Club,Cultural,2,"Not what I expected, the content was confusing."
+R0124,2025-07-16 08:09:52.129125,Data Visualization Session,Data Science,Workshop,5,Great speakers and practical examples. Loved it!
+R0125,2025-09-06 04:50:52.129125,Data Visualization Session,Data Science,Workshop,4,Fun and interactive. The cohort participation was great.
+R0126,2025-07-03 08:35:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0127,2025-08-16 08:45:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0128,2025-08-21 04:11:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Fun and interactive. The cohort participation was great. Good examples.
+R0129,2025-08-10 09:43:52.129125,Data Visualization Session,Data Science,Workshop,5,Very useful content; would attend similar events again.
+R0130,2025-07-28 01:07:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Well organized and helpful. Learned a lot.
+R0131,2025-07-04 00:09:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Well organized and helpful. Learned a lot.
+R0132,2025-08-13 19:49:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,
+R0133,2025-08-06 23:49:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0134,2025-08-16 17:18:52.129125,Cultural Night,Cultural Club,Cultural,2,Too crowded and noisy; couldn't focus.
+R0135,2025-08-05 01:39:52.129125,Music Fest,Cultural Club,Cultural,2,Too crowded and noisy; couldn't focus.
+R0136,2025-07-13 08:18:52.129125,Data Visualization Session,Data Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0137,2025-09-10 10:39:52.129125,Music Fest,Cultural Club,Cultural,4,Fun and interactive. The cohort participation was great.
+R0138,2025-07-07 05:48:52.129125,Data Visualization Session,Data Science,Workshop,3,"It was okay, some parts were useful."
+R0139,2025-07-02 14:10:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Neutral — neither very good nor very bad. Too long.
+R0140,2025-07-24 12:25:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,"It was okay, some parts were useful."
+R0141,2025-08-17 05:51:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,
+R0142,2025-09-12 14:41:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Well organized and helpful. Learned a lot.
+R0143,2025-07-08 08:09:52.129125,Cultural Night,Cultural Club,Cultural,4,Very useful content; would attend similar events again.
+R0144,2025-08-04 08:10:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Fun and interactive. The cohort participation was great.
+R0145,2025-06-25 00:50:52.129125,AI Workshop,Computer Science,Workshop,3,Neutral — neither very good nor very bad.
+R0146,2025-09-10 07:14:52.129125,Data Visualization Session,Data Science,Workshop,5,Great speakers and practical examples. Loved it!
+R0147,2025-08-08 16:03:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0148,2025-07-25 16:32:52.129125,Data Visualization Session,Data Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0149,2025-08-14 03:45:52.129125,Cultural Night,Cultural Club,Cultural,3,Neutral — neither very good nor very bad.
+R0150,2025-08-05 14:14:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0151,2025-07-30 13:59:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Great speakers and practical examples. Loved it!
+R0152,2025-07-24 09:51:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0153,2025-08-15 06:04:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0154,2025-07-05 11:46:52.129125,Data Visualization Session,Data Science,Workshop,5,Very useful content; would attend similar events again. Venue issues.
+R0155,2025-07-07 08:05:52.129125,AI Workshop,Computer Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0156,2025-08-07 22:32:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Great speakers and practical examples. Loved it! Venue issues.
+R0157,2025-09-16 23:39:52.129125,Cultural Night,Cultural Club,Cultural,4,Very useful content; would attend similar events again.
+R0158,2025-07-14 22:40:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"It was okay, some parts were useful."
+R0159,2025-08-12 04:17:52.129125,Data Visualization Session,Data Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0160,2025-07-08 13:36:52.129125,Cultural Night,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0161,2025-07-02 01:38:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,Average experience. Could be better organized.
+R0162,2025-08-13 01:04:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,2,Poorly organized and the speaker ran overtime.
+R0163,2025-07-22 00:39:52.129125,AI Workshop,Computer Science,Workshop,4,Well organized and helpful. Learned a lot. Venue issues.
+R0164,2025-09-18 19:54:52.129125,AI Workshop,Computer Science,Workshop,3,Neutral — neither very good nor very bad. Too long.
+R0165,2025-08-29 03:41:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0166,2025-07-28 19:10:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,"Somewhat informative, but pacing felt off."
+R0167,2025-07-02 22:04:52.129125,Cultural Night,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it!
+R0168,2025-07-08 01:03:52.129125,Cultural Night,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it!
+R0169,2025-07-04 07:30:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0170,2025-07-06 11:05:52.129125,Cultural Night,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0171,2025-07-24 00:40:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it!
+R0172,2025-09-03 05:27:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0173,2025-08-28 00:26:52.129125,Data Visualization Session,Data Science,Workshop,2,Unclear objectives and lack of practical examples.
+R0174,2025-09-10 16:40:52.129125,AI Workshop,Computer Science,Workshop,3,"Somewhat informative, but pacing felt off."
+R0175,2025-07-02 06:05:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Great speakers and practical examples. Loved it!
+R0176,2025-07-21 20:59:52.129125,Music Fest,Cultural Club,Cultural,2,Too crowded and noisy; couldn't focus.
+R0177,2025-09-10 04:24:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Great speakers and practical examples. Loved it!
+R0178,2025-07-19 18:55:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,"It was okay, some parts were useful."
+R0179,2025-08-29 08:30:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,
+R0180,2025-09-03 15:30:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad.
+R0181,2025-07-12 08:46:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0182,2025-08-18 10:28:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Neutral — neither very good nor very bad.
+R0183,2025-07-08 01:51:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Fun and interactive. The cohort participation was great.
+R0184,2025-07-27 19:26:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0185,2025-08-06 06:19:52.129125,Data Visualization Session,Data Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0186,2025-09-08 05:23:52.129125,Cultural Night,Cultural Club,Cultural,4,Fun and interactive. The cohort participation was great. Venue issues.
+R0187,2025-08-24 09:14:52.129125,AI Workshop,Computer Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0188,2025-08-15 08:06:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0189,2025-08-01 07:24:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Very useful content; would attend similar events again.
+R0190,2025-09-05 05:37:52.129125,Data Visualization Session,Data Science,Workshop,4,Very useful content; would attend similar events again.
+R0191,2025-06-26 15:53:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Well organized and helpful. Learned a lot.
+R0192,2025-06-22 03:36:52.129125,AI Workshop,Computer Science,Workshop,5,Very useful content; would attend similar events again.
+R0193,2025-07-22 21:42:52.129125,AI Workshop,Computer Science,Workshop,3,Average experience. Could be better organized.
+R0194,2025-08-01 10:23:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,"Somewhat informative, but pacing felt off."
+R0195,2025-08-05 14:04:52.129125,Data Visualization Session,Data Science,Workshop,4,Well organized and helpful. Learned a lot.
+R0196,2025-07-24 08:22:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,"It was okay, some parts were useful."
+R0197,2025-07-07 18:09:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,
+R0198,2025-07-29 01:11:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0199,2025-07-10 14:59:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,
+R0200,2025-07-08 21:29:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0201,2025-08-30 12:44:52.129125,Cultural Night,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it! Food arrangement was bad.
+R0202,2025-07-31 09:38:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Average experience. Could be better organized.
+R0203,2025-09-07 07:03:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0204,2025-07-16 02:24:52.129125,AI Workshop,Computer Science,Workshop,2,Too crowded and noisy; couldn't focus.
+R0205,2025-08-25 04:06:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,
+R0206,2025-07-11 17:03:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Very useful content; would attend similar events again. Venue issues.
+R0207,2025-09-01 17:25:52.129125,Music Fest,Cultural Club,Cultural,5,Food arrangement was bad.
+R0208,2025-07-13 04:04:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0209,2025-09-04 10:52:52.129125,Music Fest,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it!
+R0210,2025-07-10 04:21:52.129125,Data Visualization Session,Data Science,Workshop,4,Well organized and helpful. Learned a lot.
+R0211,2025-07-10 10:38:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Good examples.
+R0212,2025-08-13 04:58:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,
+R0213,2025-07-15 01:57:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Great speakers and practical examples. Loved it!
+R0214,2025-07-15 20:37:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Average experience. Could be better organized.
+R0215,2025-07-18 05:38:52.129125,AI Workshop,Computer Science,Workshop,3,"It was okay, some parts were useful."
+R0216,2025-07-04 08:14:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Very useful content; would attend similar events again.
+R0217,2025-07-30 00:03:52.129125,Data Visualization Session,Data Science,Workshop,4,Very useful content; would attend similar events again.
+R0218,2025-08-09 11:31:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,
+R0219,2025-09-18 07:54:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,2,Unclear objectives and lack of practical examples.
+R0220,2025-07-16 05:47:52.129125,Music Fest,Cultural Club,Cultural,5,Very useful content; would attend similar events again.
+R0221,2025-08-19 08:40:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Great speakers and practical examples. Loved it!
+R0222,2025-06-22 17:21:52.129125,AI Workshop,Computer Science,Workshop,3,"It was okay, some parts were useful."
+R0223,2025-07-07 12:24:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it!
+R0224,2025-07-26 05:10:52.129125,Cultural Night,Cultural Club,Cultural,5,Fun and interactive. The cohort participation was great.
+R0225,2025-06-29 04:26:52.129125,Music Fest,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0226,2025-07-26 18:28:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0227,2025-08-11 17:02:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0228,2025-09-14 01:09:52.129125,Music Fest,Cultural Club,Cultural,3,Neutral — neither very good nor very bad.
+R0229,2025-08-14 06:58:52.129125,Music Fest,Cultural Club,Cultural,3,
+R0230,2025-08-14 10:46:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,
+R0231,2025-08-26 06:29:52.129125,Music Fest,Cultural Club,Cultural,5,Great speakers and practical examples. Loved it! Food arrangement was bad.
+R0232,2025-07-30 20:49:52.129125,Music Fest,Cultural Club,Cultural,3,Neutral — neither very good nor very bad.
+R0233,2025-07-16 05:26:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Well organized and helpful. Learned a lot.
+R0234,2025-06-29 23:25:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0235,2025-09-08 07:09:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Very useful content; would attend similar events again.
+R0236,2025-08-20 00:34:52.129125,Data Visualization Session,Data Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0237,2025-07-11 15:24:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Well organized and helpful. Learned a lot.
+R0238,2025-06-25 06:45:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Well organized and helpful. Learned a lot.
+R0239,2025-09-12 03:03:52.129125,Data Visualization Session,Data Science,Workshop,5,Great speakers and practical examples. Loved it!
+R0240,2025-07-18 11:52:52.129125,Cultural Night,Cultural Club,Cultural,4,
+R0241,2025-07-20 10:51:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0242,2025-08-14 09:32:52.129125,Cultural Night,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it! Good examples.
+R0243,2025-07-22 07:43:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,
+R0244,2025-07-20 02:37:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad. Food arrangement was bad.
+R0245,2025-09-09 11:18:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0246,2025-06-23 22:18:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0247,2025-09-19 13:08:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Fun and interactive. The cohort participation was great.
+R0248,2025-07-27 21:46:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0249,2025-08-29 21:04:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,Very useful content; would attend similar events again.
+R0250,2025-08-27 02:46:52.129125,AI Workshop,Computer Science,Workshop,4,Well organized and helpful. Learned a lot.
+R0251,2025-07-18 09:37:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0252,2025-06-23 08:12:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Average experience. Could be better organized. Food arrangement was bad.
+R0253,2025-07-11 09:01:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Well organized and helpful. Learned a lot.
+R0254,2025-06-29 18:43:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Very useful content; would attend similar events again.
+R0255,2025-08-15 22:34:52.129125,AI Workshop,Computer Science,Workshop,5,Very useful content; would attend similar events again.
+R0256,2025-07-12 14:00:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Very useful content; would attend similar events again.
+R0257,2025-07-12 11:50:52.129125,Cultural Night,Cultural Club,Cultural,4,Very useful content; would attend similar events again.
+R0258,2025-07-08 12:18:52.129125,Cultural Night,Cultural Club,Cultural,4,Fun and interactive. The cohort participation was great.
+R0259,2025-09-09 06:34:52.129125,AI Workshop,Computer Science,Workshop,4,
+R0260,2025-07-07 09:12:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,Fun and interactive. The cohort participation was great.
+R0261,2025-09-03 03:47:52.129125,AI Workshop,Computer Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0262,2025-08-09 01:27:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Average experience. Could be better organized.
+R0263,2025-07-15 15:17:52.129125,Music Fest,Cultural Club,Cultural,5,Great speakers and practical examples. Loved it!
+R0264,2025-09-15 17:48:52.129125,AI Workshop,Computer Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0265,2025-06-29 13:29:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0266,2025-07-15 02:40:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0267,2025-08-22 05:26:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Well organized and helpful. Learned a lot.
+R0268,2025-08-05 07:06:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,
+R0269,2025-08-21 18:06:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0270,2025-09-08 19:26:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0271,2025-08-24 11:39:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0272,2025-08-21 22:42:52.129125,AI Workshop,Computer Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0273,2025-09-08 04:46:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0274,2025-07-03 07:57:52.129125,AI Workshop,Computer Science,Workshop,5,
+R0275,2025-09-04 15:00:52.129125,AI Workshop,Computer Science,Workshop,5,Great speakers and practical examples. Loved it!
+R0276,2025-07-17 13:36:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,"It was okay, some parts were useful. Too long."
+R0277,2025-08-17 19:03:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Great speakers and practical examples. Loved it!
+R0278,2025-07-01 08:40:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0279,2025-08-17 16:03:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0280,2025-09-14 02:00:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Well organized and helpful. Learned a lot. Too long.
+R0281,2025-06-27 19:04:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0282,2025-08-16 14:46:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0283,2025-06-23 17:23:52.129125,AI Workshop,Computer Science,Workshop,4,Well organized and helpful. Learned a lot. Food arrangement was bad.
+R0284,2025-08-30 01:40:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it!
+R0285,2025-07-30 02:09:52.129125,Data Visualization Session,Data Science,Workshop,4,Fun and interactive. The cohort participation was great.
+R0286,2025-09-01 06:23:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0287,2025-08-19 15:20:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0288,2025-07-05 07:53:52.129125,AI Workshop,Computer Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0289,2025-07-27 12:24:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0290,2025-07-28 13:45:52.129125,Data Visualization Session,Data Science,Workshop,4,Fun and interactive. The cohort participation was great.
+R0291,2025-08-19 09:12:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Really enjoyed the session — very informative and engaging. Food arrangement was bad.
+R0292,2025-08-03 07:44:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0293,2025-08-29 05:24:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Well organized and helpful. Learned a lot.
+R0294,2025-06-24 15:51:52.129125,Music Fest,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it!
+R0295,2025-07-02 06:59:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it!
+R0296,2025-07-30 11:03:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Fun and interactive. The cohort participation was great.
+R0297,2025-07-15 22:37:52.129125,Music Fest,Cultural Club,Cultural,4,
+R0298,2025-08-01 16:52:52.129125,Music Fest,Cultural Club,Cultural,3,"Somewhat informative, but pacing felt off."
+R0299,2025-08-23 06:45:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Neutral — neither very good nor very bad.
+R0300,2025-06-25 07:10:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,1,"Not what I expected, the content was confusing."
+R0301,2025-07-04 13:23:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0302,2025-08-23 22:55:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0303,2025-06-29 15:23:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad.
+R0304,2025-06-28 19:19:52.129125,AI Workshop,Computer Science,Workshop,4,Very useful content; would attend similar events again. Venue issues.
+R0305,2025-09-01 18:52:52.129125,Cultural Night,Cultural Club,Cultural,3,"Somewhat informative, but pacing felt off."
+R0306,2025-07-01 03:27:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Neutral — neither very good nor very bad.
+R0307,2025-06-26 09:51:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,
+R0308,2025-09-08 02:53:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Well organized and helpful. Learned a lot.
+R0309,2025-06-28 22:38:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Fun and interactive. The cohort participation was great.
+R0310,2025-09-03 06:57:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0311,2025-06-29 01:55:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0312,2025-07-06 02:12:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,
+R0313,2025-07-08 02:58:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"Somewhat informative, but pacing felt off."
+R0314,2025-08-05 13:42:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0315,2025-09-17 11:09:52.129125,Music Fest,Cultural Club,Cultural,5,Very useful content; would attend similar events again.
+R0316,2025-08-21 22:53:52.129125,AI Workshop,Computer Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0317,2025-08-27 13:50:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0318,2025-07-25 03:02:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,2,Poorly organized and the speaker ran overtime.
+R0319,2025-08-04 12:48:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Fun and interactive. The cohort participation was great.
+R0320,2025-07-29 16:31:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Very useful content; would attend similar events again.
+R0321,2025-08-16 19:12:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Very useful content; would attend similar events again.
+R0322,2025-07-03 13:47:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,Neutral — neither very good nor very bad.
+R0323,2025-09-17 03:48:52.129125,Music Fest,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0324,2025-08-05 00:55:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Well organized and helpful. Learned a lot.
+R0325,2025-07-24 01:32:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0326,2025-07-26 22:20:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Neutral — neither very good nor very bad.
+R0327,2025-09-17 00:24:52.129125,Data Visualization Session,Data Science,Workshop,3,Average experience. Could be better organized.
+R0328,2025-06-28 08:21:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Great speakers and practical examples. Loved it!
+R0329,2025-07-30 12:19:52.129125,Music Fest,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0330,2025-08-24 08:14:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0331,2025-08-20 11:25:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,
+R0332,2025-09-02 05:50:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0333,2025-07-16 00:15:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Great speakers and practical examples. Loved it! Venue issues.
+R0334,2025-09-14 00:40:52.129125,AI Workshop,Computer Science,Workshop,4,
+R0335,2025-06-25 11:23:52.129125,Cultural Night,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0336,2025-09-16 14:15:52.129125,AI Workshop,Computer Science,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0337,2025-08-04 17:30:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Great speakers and practical examples. Loved it!
+R0338,2025-06-24 10:20:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0339,2025-09-17 00:36:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0340,2025-07-31 16:06:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0341,2025-09-14 17:58:52.129125,Music Fest,Cultural Club,Cultural,4,Very useful content; would attend similar events again.
+R0342,2025-08-16 08:09:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Great speakers and practical examples. Loved it!
+R0343,2025-08-22 18:58:52.129125,AI Workshop,Computer Science,Workshop,4,
+R0344,2025-08-20 00:47:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0345,2025-09-19 16:20:52.129125,Data Visualization Session,Data Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0346,2025-07-28 08:31:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,2,
+R0347,2025-09-08 19:11:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0348,2025-08-20 19:36:52.129125,AI Workshop,Computer Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0349,2025-09-03 08:07:52.129125,Cultural Night,Cultural Club,Cultural,4,Fun and interactive. The cohort participation was great.
+R0350,2025-06-22 06:02:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0351,2025-07-26 16:53:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,"It was okay, some parts were useful."
+R0352,2025-07-25 07:49:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,2,"Timing and logistics were a problem, disappointing."
+R0353,2025-07-25 21:56:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Fun and interactive. The cohort participation was great.
+R0354,2025-08-03 20:37:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Very useful content; would attend similar events again.
+R0355,2025-08-15 10:40:52.129125,Music Fest,Cultural Club,Cultural,3,Neutral — neither very good nor very bad.
+R0356,2025-08-25 08:44:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,2,Too crowded and noisy; couldn't focus.
+R0357,2025-06-27 03:46:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0358,2025-06-30 20:40:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0359,2025-09-02 00:08:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,2,Too crowded and noisy; couldn't focus.
+R0360,2025-08-15 15:55:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0361,2025-07-08 00:52:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Average experience. Could be better organized.
+R0362,2025-08-07 23:57:52.129125,Data Visualization Session,Data Science,Workshop,5,Great speakers and practical examples. Loved it!
+R0363,2025-09-16 09:31:52.129125,AI Workshop,Computer Science,Workshop,4,Very useful content; would attend similar events again.
+R0364,2025-08-10 06:05:52.129125,Music Fest,Cultural Club,Cultural,4,Fun and interactive. The cohort participation was great.
+R0365,2025-09-03 11:02:52.129125,Music Fest,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0366,2025-07-10 19:37:52.129125,AI Workshop,Computer Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0367,2025-07-23 12:59:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,2,Too crowded and noisy; couldn't focus.
+R0368,2025-07-16 11:10:52.129125,Music Fest,Cultural Club,Cultural,5,Really enjoyed the session — very informative and engaging.
+R0369,2025-08-16 21:08:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,Neutral — neither very good nor very bad. Too long.
+R0370,2025-07-06 20:30:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,Really enjoyed the session — very informative and engaging.
+R0371,2025-06-23 20:39:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Great speakers and practical examples. Loved it! Venue issues.
+R0372,2025-08-09 22:27:52.129125,Cultural Night,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0373,2025-09-18 15:13:52.129125,AI Workshop,Computer Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0374,2025-07-28 02:55:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,2,"Timing and logistics were a problem, disappointing."
+R0375,2025-07-03 06:55:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0376,2025-08-12 18:54:52.129125,Data Visualization Session,Data Science,Workshop,4,Very useful content; would attend similar events again.
+R0377,2025-07-09 00:02:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0378,2025-07-23 16:23:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Fun and interactive. The cohort participation was great.
+R0379,2025-07-12 18:25:52.129125,Music Fest,Cultural Club,Cultural,4,
+R0380,2025-08-19 07:29:52.129125,Music Fest,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0381,2025-09-19 04:56:52.129125,AI Workshop,Computer Science,Workshop,2,Unclear objectives and lack of practical examples.
+R0382,2025-08-26 11:48:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Fun and interactive. The cohort participation was great.
+R0383,2025-07-07 12:15:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0384,2025-08-08 22:59:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0385,2025-08-20 13:48:52.129125,AI Workshop,Computer Science,Workshop,4,Well organized and helpful. Learned a lot.
+R0386,2025-07-12 20:25:52.129125,AI Workshop,Computer Science,Workshop,3,Average experience. Could be better organized.
+R0387,2025-08-09 07:54:52.129125,Music Fest,Cultural Club,Cultural,3,"Somewhat informative, but pacing felt off."
+R0388,2025-08-16 20:32:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0389,2025-08-31 02:46:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Very useful content; would attend similar events again.
+R0390,2025-07-19 00:21:52.129125,Data Visualization Session,Data Science,Workshop,4,Very useful content; would attend similar events again. Venue issues.
+R0391,2025-08-10 13:48:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad.
+R0392,2025-07-31 23:33:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,"It was okay, some parts were useful."
+R0393,2025-09-19 00:39:52.129125,Cultural Night,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0394,2025-09-13 11:41:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,Very useful content; would attend similar events again.
+R0395,2025-09-07 20:36:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Very useful content; would attend similar events again.
+R0396,2025-07-19 03:42:52.129125,AI Workshop,Computer Science,Workshop,4,Very useful content; would attend similar events again.
+R0397,2025-07-22 21:10:52.129125,Data Visualization Session,Data Science,Workshop,4,Well organized and helpful. Learned a lot.
+R0398,2025-09-03 18:09:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Neutral — neither very good nor very bad.
+R0399,2025-07-07 11:15:52.129125,Data Visualization Session,Data Science,Workshop,4,Very useful content; would attend similar events again.
+R0400,2025-07-04 21:46:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0401,2025-09-16 09:55:52.129125,Music Fest,Cultural Club,Cultural,3,
+R0402,2025-07-30 15:47:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"It was okay, some parts were useful."
+R0403,2025-08-18 09:47:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Fun and interactive. The cohort participation was great. Venue issues.
+R0404,2025-08-19 06:02:52.129125,Music Fest,Cultural Club,Cultural,2,Unclear objectives and lack of practical examples.
+R0405,2025-06-26 22:24:52.129125,AI Workshop,Computer Science,Workshop,4,
+R0406,2025-07-13 06:13:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Well organized and helpful. Learned a lot.
+R0407,2025-08-06 13:57:52.129125,Cultural Night,Cultural Club,Cultural,3,Neutral — neither very good nor very bad. Food arrangement was bad.
+R0408,2025-08-16 02:28:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0409,2025-07-03 11:56:52.129125,AI Workshop,Computer Science,Workshop,5,Fun and interactive. The cohort participation was great.
+R0410,2025-07-09 05:59:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,2,Poorly organized and the speaker ran overtime.
+R0411,2025-08-29 23:17:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0412,2025-08-04 01:18:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,2,
+R0413,2025-06-22 19:46:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0414,2025-09-01 20:55:52.129125,Data Visualization Session,Data Science,Workshop,5,Very useful content; would attend similar events again.
+R0415,2025-08-01 15:03:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0416,2025-08-04 16:12:52.129125,Music Fest,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot. Venue issues.
+R0417,2025-07-25 13:31:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"Somewhat informative, but pacing felt off."
+R0418,2025-08-31 09:14:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0419,2025-07-14 15:41:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0420,2025-09-10 21:24:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Great speakers and practical examples. Loved it! Too long.
+R0421,2025-08-18 00:48:52.129125,Data Visualization Session,Data Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0422,2025-08-07 09:21:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad. Venue issues.
+R0423,2025-06-25 11:36:52.129125,AI Workshop,Computer Science,Workshop,5,Well organized and helpful. Learned a lot.
+R0424,2025-06-28 05:18:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0425,2025-08-20 06:09:52.129125,Cultural Night,Cultural Club,Cultural,3,"Somewhat informative, but pacing felt off."
+R0426,2025-06-30 14:08:52.129125,Music Fest,Cultural Club,Cultural,3,Neutral — neither very good nor very bad.
+R0427,2025-06-29 03:05:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Fun and interactive. The cohort participation was great. Food arrangement was bad.
+R0428,2025-08-29 23:07:52.129125,Music Fest,Cultural Club,Cultural,5,Well organized and helpful. Learned a lot.
+R0429,2025-08-16 02:01:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,2,Poorly organized and the speaker ran overtime.
+R0430,2025-08-08 11:03:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,Great speakers and practical examples. Loved it!
+R0431,2025-08-13 03:37:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"It was okay, some parts were useful."
+R0432,2025-08-19 19:35:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Very useful content; would attend similar events again.
+R0433,2025-07-25 05:28:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"Somewhat informative, but pacing felt off."
+R0434,2025-08-15 21:32:52.129125,Cultural Night,Cultural Club,Cultural,3,"Somewhat informative, but pacing felt off."
+R0435,2025-07-17 11:09:52.129125,AI Workshop,Computer Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0436,2025-09-05 22:04:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0437,2025-09-05 12:19:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0438,2025-08-19 18:54:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0439,2025-06-25 14:51:52.129125,Cultural Night,Cultural Club,Cultural,4,Very useful content; would attend similar events again.
+R0440,2025-08-26 01:42:52.129125,Cultural Night,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0441,2025-08-26 16:27:52.129125,Music Fest,Cultural Club,Cultural,3,Neutral — neither very good nor very bad.
+R0442,2025-08-06 11:39:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Fun and interactive. The cohort participation was great.
+R0443,2025-08-17 23:59:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,4,Really enjoyed the session — very informative and engaging.
+R0444,2025-08-02 06:33:52.129125,Design Thinking Workshop,Design Dept,Workshop,2,"Timing and logistics were a problem, disappointing."
+R0445,2025-08-10 16:35:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Neutral — neither very good nor very bad.
+R0446,2025-07-08 15:44:52.129125,Music Fest,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0447,2025-08-29 05:20:52.129125,Data Visualization Session,Data Science,Workshop,5,Great speakers and practical examples. Loved it! Venue issues.
+R0448,2025-07-09 22:57:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,3,
+R0449,2025-07-19 05:42:52.129125,Data Visualization Session,Data Science,Workshop,4,Very useful content; would attend similar events again.
+R0450,2025-07-24 21:08:52.129125,Data Visualization Session,Data Science,Workshop,5,Really enjoyed the session — very informative and engaging.
+R0451,2025-07-26 23:17:52.129125,Music Fest,Cultural Club,Cultural,5,Great speakers and practical examples. Loved it!
+R0452,2025-06-22 00:33:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"It was okay, some parts were useful."
+R0453,2025-08-13 16:07:52.129125,AI Workshop,Computer Science,Workshop,3,Neutral — neither very good nor very bad. Good examples.
+R0454,2025-06-27 13:41:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Well organized and helpful. Learned a lot.
+R0455,2025-08-21 14:46:52.129125,Design Thinking Workshop,Design Dept,Workshop,5,Very useful content; would attend similar events again.
+R0456,2025-09-03 23:42:52.129125,Cultural Night,Cultural Club,Cultural,5,Great speakers and practical examples. Loved it!
+R0457,2025-08-31 08:58:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,
+R0458,2025-08-07 06:54:52.129125,Cultural Night,Cultural Club,Cultural,4,Great speakers and practical examples. Loved it!
+R0459,2025-06-29 16:58:52.129125,Cultural Night,Cultural Club,Cultural,3,"It was okay, some parts were useful."
+R0460,2025-08-26 22:37:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,Average experience. Could be better organized.
+R0461,2025-07-02 09:12:52.129125,Music Fest,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0462,2025-07-26 06:40:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,5,Very useful content; would attend similar events again.
+R0463,2025-07-21 20:08:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0464,2025-09-04 14:03:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Good examples.
+R0465,2025-07-15 01:40:52.129125,Music Fest,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0466,2025-09-05 12:10:52.129125,Cultural Night,Cultural Club,Cultural,2,"Not what I expected, the content was confusing."
+R0467,2025-07-03 17:55:52.129125,Music Fest,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0468,2025-08-05 09:57:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,"Somewhat informative, but pacing felt off."
+R0469,2025-08-15 15:41:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0470,2025-08-19 20:37:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,3,Average experience. Could be better organized.
+R0471,2025-09-11 07:06:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"Somewhat informative, but pacing felt off."
+R0472,2025-08-29 01:54:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0473,2025-06-24 18:12:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,5,
+R0474,2025-07-04 06:22:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,
+R0475,2025-06-23 16:44:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,2,Too crowded and noisy; couldn't focus.
+R0476,2025-08-11 03:33:52.129125,AI Workshop,Computer Science,Workshop,5,Very useful content; would attend similar events again.
+R0477,2025-07-14 19:42:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,2,"Not what I expected, the content was confusing."
+R0478,2025-08-11 14:42:52.129125,AI Workshop,Computer Science,Workshop,4,Fun and interactive. The cohort participation was great.
+R0479,2025-07-02 00:02:52.129125,Music Fest,Cultural Club,Cultural,4,Well organized and helpful. Learned a lot.
+R0480,2025-07-14 07:41:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Fun and interactive. The cohort participation was great.
+R0481,2025-09-07 03:30:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Great speakers and practical examples. Loved it! Too long.
+R0482,2025-08-24 10:31:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Great speakers and practical examples. Loved it! Good examples.
+R0483,2025-07-06 15:40:52.129125,AI Workshop,Computer Science,Workshop,3,Neutral — neither very good nor very bad.
+R0484,2025-08-20 22:41:52.129125,Music Fest,Cultural Club,Cultural,4,Really enjoyed the session — very informative and engaging.
+R0485,2025-06-27 08:06:52.129125,Design Thinking Workshop,Design Dept,Workshop,2,Poorly organized and the speaker ran overtime.
+R0486,2025-08-02 01:33:52.129125,Data Visualization Session,Data Science,Workshop,3,Neutral — neither very good nor very bad.
+R0487,2025-08-28 20:10:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,"Somewhat informative, but pacing felt off."
+R0488,2025-09-08 17:42:52.129125,Cultural Night,Cultural Club,Cultural,3,Average experience. Could be better organized.
+R0489,2025-06-24 04:16:52.129125,Cultural Night,Cultural Club,Cultural,4,Fun and interactive. The cohort participation was great.
+R0490,2025-09-11 13:30:52.129125,Design Thinking Workshop,Design Dept,Workshop,3,
+R0491,2025-09-03 17:20:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Great speakers and practical examples. Loved it!
+R0492,2025-09-16 12:52:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,5,Very useful content; would attend similar events again.
+R0493,2025-08-12 17:12:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Well organized and helpful. Learned a lot.
+R0494,2025-07-27 08:53:52.129125,Data Visualization Session,Data Science,Workshop,3,"Somewhat informative, but pacing felt off."
+R0495,2025-09-01 03:02:52.129125,Data Visualization Session,Data Science,Workshop,4,Great speakers and practical examples. Loved it!
+R0496,2025-09-11 06:52:52.129125,Career Talk: Resume & Interview,Career Services,Seminar,4,Very useful content; would attend similar events again.
+R0497,2025-08-19 14:52:52.129125,Design Thinking Workshop,Design Dept,Workshop,4,Really enjoyed the session — very informative and engaging.
+R0498,2025-08-16 02:38:52.129125,Guest Lecture: Ethics in Tech,Philosophy Dept,Seminar,3,"It was okay, some parts were useful."
+R0499,2025-09-18 07:16:52.129125,Startup Pitch Day,Entrepreneurship Club,Seminar,4,Fun and interactive. The cohort participation was great.
+R0500,2025-07-06 16:03:52.129125,Data Visualization Session,Data Science,Workshop,5,Very useful content; would attend similar events again.
