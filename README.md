@@ -10,7 +10,7 @@ This repository showcases my task submissions for the **Future Interns Data Scie
 ## 📌 Task Details  
 
 ### 🔹 [FUTURE_DS_01](./FUTURE_DS_01) – Business Sales Dashboard  
-- Dataset: `Dataset.xlsx`  
+- Dataset: `Dataset.xlsx`   
 - Tool: Power BI  
 - Deliverables: Interactive Sales Dashboard + Report  
 
