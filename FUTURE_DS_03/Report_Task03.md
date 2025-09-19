@@ -58,8 +58,8 @@ College events are generally well-received, with workshops being the most impact
 
 ## 📂 Deliverables
 
-- 📓 `College_Event_Feedback_Analysis_Final.ipynb` → Complete analysis notebook  
-- 📝 `Mini_Report_College_Event_Feedback_Final.md` → Concise mini-report  
+- 📓 `College_Event_Feedback_Analysis.ipynb` → Complete analysis notebook  
+- 📝 `College_Event_Feedback_Report.md` → Concise mini-report  
 - 📑 `Report_Task03.md` → Detailed report (this file)  
 - 📘 `README.md` → Repository overview  
 
